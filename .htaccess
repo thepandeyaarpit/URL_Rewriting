@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteRule ^app.xml?$ index.php
+
+
+RewriteEngine On
+RewriteRule ^main.xml?$ welcome.php
